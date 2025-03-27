@@ -12,13 +12,13 @@ function AboutMePage() {
           <h2>About Me</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut
-            ultricies libero. <br /> Donec nec mi nec urna fermentum tincidunt.
+            ultricies u. <br /> Donec nec mi nec urna ftincidunot.
             Nullam aliquam, nunc non fermentum <br /> fermentum, neque velit
             ultricies mi.
           </p>
           <p>
             Nullam auctor, lorem ac lobortis tincidunt, elit magna tempor nunc,
-            a tincidunt purus . Nulla <br />
+            a tincid<br />
             facilisi. In hac habitasse platea dictumst. Sed at erat eu mi auctor
             ultricies. .
           </p>
